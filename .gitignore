@@ -1,0 +1,8 @@
+.env
+*.log
+*.log.*
+btc_dca_ledger.csv
+__pycache__/
+*.py[cod]
+venv/
+.venv/
